@@ -17,12 +17,12 @@ Along with the analysis, project also involved:
     - Google Slides
     - Google Docs
 
-## Technical Techniques
+## Technical Skills
 - Cleaning, sorting, filtering
 - Summary statistics, aggregating
 - Plotting and subplotting (bar, histogram, line, scatter, boxplot)
 
-## Qualitative Techniques
+## Qualitative Skills
 - Synthesizing results for tentative conclusions
 - Acknowledging potential pitfalls with results and techniques
 
