@@ -1,4 +1,4 @@
-# project-streaming-services
+# streaming-service-analysis-and-offer-characterization
 ## About EDA on Streaming Services
 
 `EDA on Streaming Services` is a team-based Python data analytics project that:
